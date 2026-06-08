@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@fal-ai/serverless-client": "^0.15.0",
+    "@google/genai": "^2.8.0",
     "@gradio/client": "^1.17.1",
     "@iconify/react": "^6.0.1",
     "@supabase/supabase-js": "^2.56.1",
